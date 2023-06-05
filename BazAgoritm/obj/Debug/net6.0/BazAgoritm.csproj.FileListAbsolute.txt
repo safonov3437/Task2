@@ -1,0 +1,15 @@
+D:\ZnkSYazProg\BazAgoritm\bin\Debug\net6.0\BazAgoritm.exe
+D:\ZnkSYazProg\BazAgoritm\bin\Debug\net6.0\BazAgoritm.deps.json
+D:\ZnkSYazProg\BazAgoritm\bin\Debug\net6.0\BazAgoritm.runtimeconfig.json
+D:\ZnkSYazProg\BazAgoritm\bin\Debug\net6.0\BazAgoritm.dll
+D:\ZnkSYazProg\BazAgoritm\bin\Debug\net6.0\BazAgoritm.pdb
+D:\ZnkSYazProg\BazAgoritm\obj\Debug\net6.0\BazAgoritm.csproj.AssemblyReference.cache
+D:\ZnkSYazProg\BazAgoritm\obj\Debug\net6.0\BazAgoritm.GeneratedMSBuildEditorConfig.editorconfig
+D:\ZnkSYazProg\BazAgoritm\obj\Debug\net6.0\BazAgoritm.AssemblyInfoInputs.cache
+D:\ZnkSYazProg\BazAgoritm\obj\Debug\net6.0\BazAgoritm.AssemblyInfo.cs
+D:\ZnkSYazProg\BazAgoritm\obj\Debug\net6.0\BazAgoritm.csproj.CoreCompileInputs.cache
+D:\ZnkSYazProg\BazAgoritm\obj\Debug\net6.0\BazAgoritm.dll
+D:\ZnkSYazProg\BazAgoritm\obj\Debug\net6.0\refint\BazAgoritm.dll
+D:\ZnkSYazProg\BazAgoritm\obj\Debug\net6.0\BazAgoritm.pdb
+D:\ZnkSYazProg\BazAgoritm\obj\Debug\net6.0\BazAgoritm.genruntimeconfig.cache
+D:\ZnkSYazProg\BazAgoritm\obj\Debug\net6.0\ref\BazAgoritm.dll
